@@ -1,5 +1,7 @@
 # Elasticsearch 权威指南
 
+> 本开源书 forked from [Elasticsearch 权威指南](https://github.com/GavinFoo/elasticsearch-definitive-guide)，作者为 [GavinFoo](https://github.com/GavinFoo)，欢迎大家 star 原作者的 [repo](https://github.com/GavinFoo/elasticsearch-definitive-guide)，以便获得最新更新，谢谢！
+
 ## 项目信息
 
 #### [在线阅读](http://learnes.net)
